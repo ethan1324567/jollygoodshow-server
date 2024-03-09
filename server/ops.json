@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "8a96dd43-f9ad-3dc4-a1ff-70dd2cd04c7e",
+    "name": "MbappeFartBubble",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
